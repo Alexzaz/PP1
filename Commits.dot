@@ -1,0 +1,3 @@
+digraph Commits {
+  0[label="Commit: Initial commit", color="#ff92c2"]
+}
